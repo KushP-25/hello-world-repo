@@ -8,4 +8,8 @@ on:
       steps:
         - name: Hello World
           run: echo "Hello, world!"
-          
+        - name: Hello Universe
+          run: echo "Hello, universe!"
+        - name: Hello Galaxy
+          run: echo "Hello, galaxy!"
+
