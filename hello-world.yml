@@ -1,5 +1,10 @@
 name: Hello World
 
+<<<<<<< HEAD
+=======
+name: Hello World
+
+>>>>>>> b353171cec150fa18e083784db52dea3e0607a4f
 on:
   push
 
@@ -9,5 +14,8 @@ jobs:
     steps:
       - name: Echo text
         run: echo "Hello, world!"
+<<<<<<< HEAD
       - name: Echo text
         run: echo "Hello, world!"
+=======
+>>>>>>> b353171cec150fa18e083784db52dea3e0607a4f
